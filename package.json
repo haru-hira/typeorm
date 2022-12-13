@@ -15,7 +15,7 @@
       "pg": "^7.3.0",
       "typeorm": "0.2.25",
       "reflect-metadata": "^0.1.10",
-      "express": "^4.15.4",
+      "express": "^4.17.3",
       "body-parser": "^1.18.1"
    },
    "devDependencies": {
